@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AndriiSorokin/Webpack1.git"
+    "url": "git+git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AndriiSorokin/Webpack1/issues"
+    "url": "/issues"
   },
-  "homepage": "https://github.com/AndriiSorokin/Webpack1#readme",
+  "homepage": "",
   "devDependencies": {
     "@babel/core": "^7.11.6",
     "@babel/plugin-proposal-class-properties": "^7.10.4",
